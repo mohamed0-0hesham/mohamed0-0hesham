@@ -98,7 +98,7 @@ object MohamedHesham {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohamed0-0hesham/mohamed0-0hesham/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0-0hesham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
