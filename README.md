@@ -44,12 +44,12 @@ object MohamedHesham {
 |:--------:|:------------|
 | **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **UI** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![XML](https://img.shields.io/badge/XML_Layouts-0D47A1?style=flat-square&logo=android&logoColor=white) |
-| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat-square&logoColor=white) ![MVI](https://img.shields.io/badge/MVP-03DAC5?style=flat-square&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat-square&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-00C853?style=flat-square&logoColor=white) |
+| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat-square&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-03DAC5?style=flat-square&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat-square&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-00C853?style=flat-square&logoColor=white) |
 | **Async** | ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **Networking** | ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
 | **Firebase** | ![Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Realtime DB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Storage](https://img.shields.io/badge/Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **Storage** | ![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white) ![SharedPreferences](https://img.shields.io/badge/SharedPrefs-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **DI** | ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-FF7043?style=flat-square&logoColor=white) |
+| **DI** | ![Hilt](https://img.shields.io/badge/Hilt-FF7043?style=flat-square&logo=android&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) |
 | **Other** | ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white) ![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logoColor=white) ![Google Play Billing](https://img.shields.io/badge/Play_Billing-3DDC84?style=flat-square&logo=googleplay&logoColor=white) |
 
@@ -76,8 +76,11 @@ object MohamedHesham {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed0-0hesham&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohamed0-0hesham&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamed0-0hesham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamed0-0hesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
+
 
 ---
 
@@ -91,9 +94,13 @@ object MohamedHesham {
 ---
 
 ## 🐍 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0-0hesham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+## 🐍 Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamed0-0hesham/mohamed0-0hesham/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 ---
