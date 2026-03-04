@@ -76,9 +76,11 @@ object MohamedHesham {
 ## 📊 GitHub Stats
 
 <div align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamed0-0hesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=mohamed0-0hesham&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamed0-0hesham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamed0-0hesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 
@@ -94,11 +96,7 @@ object MohamedHesham {
 ---
 
 ## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0-0hesham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
 
-## 🐍 Snake Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohamed0-0hesham/mohamed0-0hesham/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
