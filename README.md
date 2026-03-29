@@ -95,14 +95,6 @@ object MohamedHesham {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed0-0hesham&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mohamed0-0hesham&color=3DDC84&style=for-the-badge)
