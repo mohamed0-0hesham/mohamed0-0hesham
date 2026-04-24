@@ -5,7 +5,7 @@
 ### 📱 Android Developer | Kotlin Enthusiast | Mobile Craftsman
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Coditria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed0-0hesham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hesham-mohamed/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hesham.dev@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+of+Android+Development;Building+Seamless+Mobile+Experiences;Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose;Turning+Ideas+Into+Published+Apps" alt="Typing SVG" />
