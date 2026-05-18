@@ -4,12 +4,12 @@
 
 ### 📱 Android Developer | Kotlin Enthusiast | Mobile Craftsman
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mohamedhesham.dev)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Coditria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mohamedhesham.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hesham-mohamed/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hesham.dev@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+of+Android+Development;Building+Seamless+Mobile+Experiences;Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose;Turning+Ideas+Into+Published+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+of+Android+Development;Building+Seamless+Mobile+Experiences;Clean+Architecture+%7C+MVI+%7C+Jetpack+Compose;Kotlin+Multiplatform+%7C+Android+%2B+iOS;Turning+Ideas+Into+Published+Apps" alt="Typing SVG" />
 
 </div>
 
@@ -19,20 +19,26 @@
 
 ```kotlin
 object MohamedHesham {
-    val role        = "Android Developer"
+    val role        = "Mid-Level Android Developer"
     val company     = "nWeave"
-    val education   = "B.Sc. Communication & Computer Engineering — Mansoura University"
+    val education   = "B.Sc. Computer Engineering — Mansoura University"
 
     val languages   = listOf("Kotlin", "Java")
+    val platforms   = listOf("Android", "iOS (via KMP)")
     val motto       = "Write clean code. Ship great apps. Never stop learning."
 
-    fun currentlyWorkingOn() = "Building feature-rich Android apps with modern architecture"
+    fun currentlyWorkingOn() = listOf(
+        "Leading modularization at nWeave",
+        "Cross-platform apps with Kotlin Multiplatform",
+        "Building production apps with 10K+ users"
+    )
 }
 ```
 
-- 🔭 Currently working at **nWeave** — developing, maintaining & improving Android applications  
-- 🌱 Passionate about **Clean Architecture**, **Jetpack Compose**, and **Kotlin Coroutines**  
-- 🎮 Love building **games** with LibGDX alongside production apps  
+- 🔭 Currently working at **nWeave** — architecting, developing & mentoring on production Android apps
+- 🌱 Passionate about **Clean Architecture**, **Jetpack Compose**, and **Kotlin Multiplatform**
+- 🎮 Love building **games** with LibGDX alongside production apps
+- 👥 Mentoring junior developers and leading code quality initiatives
 - 📫 Reach me at **m.hesham.dev@gmail.com**
 
 ---
@@ -44,15 +50,17 @@ object MohamedHesham {
 | Category | Technologies |
 |:--------:|:------------|
 | **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **UI** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![XML](https://img.shields.io/badge/XML_Layouts-0D47A1?style=flat-square&logo=android&logoColor=white) |
-| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat-square&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-03DAC5?style=flat-square&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat-square&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-00C853?style=flat-square&logoColor=white) |
-| **Async** | ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Networking** | ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
-| **Firebase** | ![Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Realtime DB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Storage](https://img.shields.io/badge/Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Storage** | ![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white) ![SharedPreferences](https://img.shields.io/badge/SharedPrefs-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **DI** | ![Hilt](https://img.shields.io/badge/Hilt-FF7043?style=flat-square&logo=android&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) |
-| **Other** | ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white) ![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logoColor=white) ![Google Play Billing](https://img.shields.io/badge/Play_Billing-3DDC84?style=flat-square&logo=googleplay&logoColor=white) |
+| **UI** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![XML](https://img.shields.io/badge/XML_Layouts-0D47A1?style=flat-square&logo=android&logoColor=white) |
+| **Architecture** | ![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat-square&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-03DAC5?style=flat-square&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat-square&logoColor=white) ![Modularization](https://img.shields.io/badge/Modularization-00C853?style=flat-square&logoColor=white) |
+| **KMP** | ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Voyager](https://img.shields.io/badge/Voyager_Navigation-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Async** | ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Networking** | ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Firebase** | ![Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Realtime DB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Storage](https://img.shields.io/badge/Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Storage** | ![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white) ![DataStore](https://img.shields.io/badge/DataStore-3DDC84?style=flat-square&logo=android&logoColor=white) ![SharedPreferences](https://img.shields.io/badge/SharedPrefs-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **DI** | ![Hilt](https://img.shields.io/badge/Hilt-FF7043?style=flat-square&logo=android&logoColor=white) ![Dagger 2](https://img.shields.io/badge/Dagger_2-FF7043?style=flat-square&logo=android&logoColor=white) ![Koin](https://img.shields.io/badge/Koin-FF7043?style=flat-square&logoColor=white) |
+| **Testing** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockk](https://img.shields.io/badge/Mockk-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Robolectric](https://img.shields.io/badge/Robolectric-3DDC84?style=flat-square&logo=android&logoColor=white) ![Compose UI Testing](https://img.shields.io/badge/Compose_UI_Testing-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Other** | ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) ![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logoColor=white) ![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white) ![Google Play Billing](https://img.shields.io/badge/Play_Billing-3DDC84?style=flat-square&logo=googleplay&logoColor=white) |
 
 </div>
 
@@ -64,9 +72,10 @@ object MohamedHesham {
 
 | App | Description | Link |
 |:---:|:------------|:----:|
-| **🏋️ kGoal Boost** | Smart Kegels fitness app with Bluetooth hardware integration, mini-games (LibGDX), multilingual support, in-app purchases & Firebase backend | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.minnalife.boost) |
-| **🎉 Squad Games** | Social game built with Jetpack Compose & Material 3 — designed to spark conversations and connections | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hesham0_0.tegi_netaraf) |
-| **🎬 SoCinema** | Movie recommendation app powered by TMDB API with MVVM, Retrofit & Coroutines | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hesham0_0.movietrainingapplication) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://play.google.com/store/apps/details?id=com.hesham0_0.movietrainingapplication) |
+| **🏋️ kGoal Boost** | Smart Kegels biofeedback app with BLE hardware integration, mini-games (LibGDX), multilingual support, in-app purchases & Firebase backend — **10K+ downloads** | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.minnalife.boost) |
+| **🎉 Squad Games** | Cross-platform party & board games app built with **Kotlin Multiplatform** & Compose Multiplatform — available on Android & iOS | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hesham0_0.tegi_netaraf) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/squad-games-party-games/id6741523461) |
+| **💬 Marassel** | Real-time chat app with offline-first architecture, WorkManager background delivery, and **195+ automated tests** | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed0-0hesham/Marassel) |
+| **🎬 SoCinema** | Movie recommendation app powered by TMDB API with MVVM, Retrofit & Coroutines | [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.hesham0_0.movietrainingapplication) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed0-0hesham/SoCinema) |
 | **🚀 Space Adventure** | Android game built with Java & LibGDX | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed0-0hesham/spaceship_game) |
 | **💊 Medical Rep App** | Tool for medical representatives — Firebase Auth, Firestore & MVVM | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed0-0hesham/MedicalRepApp) |
 
@@ -83,7 +92,6 @@ object MohamedHesham {
   <img src="https://streak-stats.demolab.com?user=mohamed0-0hesham&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamed0-0hesham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
 </div>
-
 
 ---
 
